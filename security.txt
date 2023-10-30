@@ -12,6 +12,3 @@ Preferred-Languages: en, es
 
 # This file expires 1 year from its last update
 Expires: 2024-09-12T00:00:00Z
-
-https://chromeriver.atlassian.net/browse/CER-16891
-https://chromeriver.atlassian.net/browse/TRAV-92
