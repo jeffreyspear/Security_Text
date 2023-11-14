@@ -44,11 +44,12 @@ urls = [
     'https://www.emburse.com',
     'https://chromeriver.com',
     'https://www.captio.net',
-    'https://tripbam.rocks',
-    'https://usetallie.com',
+    'https://tripbam.rocks',    
     'https://nexonia.com',
     'https://getroadmap.com',
-    'https://www.abacus.com/'
+    'https://www.abacus.com/',
+    'https://spend.emburse.com'
+
 
     # Add more URLs here
 ]
