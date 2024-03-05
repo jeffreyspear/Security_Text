@@ -1,5 +1,5 @@
 # How to contact us about security issues
-Contact: mailto:security@emburse.com
+Contact: mailto:responsibledisclosure@emburse.com
 
 # Our responsible disclosure policy
 Policy: https://www.emburse.com/responsible-disclosure
@@ -11,4 +11,4 @@ Hiring: https://www.emburse.com/company/careers
 Preferred-Languages: en, es
 
 # This file expires 1 year from its last update
-Expires: 2024-09-12T00:00:00Z
+Expires: 2025-03-05T00:00:00Z
