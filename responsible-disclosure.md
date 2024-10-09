@@ -1,13 +1,14 @@
 # Responsible Disclosure Policy
 
 At Emburse we consider the security of our systems a top priority. But no matter how much effort we put into system security; it might be possible that you find a vulnerability.
-How to Report a Vulnerability
 
-## Please follow these steps to report a vulnerability:
+
+## How to Report a Vulnerability
+Please follow these steps to report a vulnerability:
 
 - Email: Send your findings to responsibledisclosure@emburse.com.
 - Provide Information: Include details such as the IP address or URL of the affected system, a description of the vulnerability, and any further explanation or Proof of Concept (PoC) if needed.
-- Contact Details: Share your contact information for further correspondence. You can also report a weakness anonymously or under a pseudonym, but then we’re unable to consult you, credit you, or consider the report reward eligible.
+- Contact Details: Share your contact information for further correspondence. You can also report a vulnerability anonymously or under a pseudonym, but then we’re unable to consult you, credit you, or consider the report reward eligible.
 
 ## Rules of Engagement
 
@@ -25,18 +26,29 @@ How to Report a Vulnerability
 - Utilize attacks on physical security, social engineering, phishing, denial of service, spam, or third-parties.
 - Install back doors or malware.
 - Take advantage of, delete or modify other people’s data.
-- Alter the system, configurations, or repeatedly access the same.
+- Alter the system, configurations, or repeatedly access the system(s) through the save vulnerability.
 - Use brute force techniques, like repeated password entries.
 
+## Scope:
+Including, but not limited to, the following Emburse products and domains:
+- Emburse: emburse.com
+- Abacus: abacus.com
+- Captio: captio.net
+- Certify: certify.com
+- Chrome River: chromeriver.com
+- Nexonia: nexonia.com
+- Roadmap: getroadmap.com
+- SpringAhead: springahead.com
+- Tallie: usetallie.com
+- Tripbam: tripbam.rocks
 
 ## Specifically Out of Scope:
 
-- Anything resolving to a third-party service
-- Issues that we are already aware of
-- Issues that don’t affect current versions of web browsers
-- Issues that necessitate incredibly unlikely user actions
-- Information disclosures that are not a risk
-- Best practice recommendations
+- Anything resolving to a third-party service.
+- Issues that don’t affect current versions of web browsers.
+- Issues that necessitate incredibly unlikely user actions or interactions.
+- Information disclosures that are not a risk.
+- Best practice recommendations.
 
 ## What We Promise:
 
@@ -46,7 +58,7 @@ Emburse commits to:
 - **Evaluation**: If the reported issue is relevant and specific, we will respond with an evaluation and an expected resolution date as soon as possible. Please note that submissions considered to be of low quality, in line with a best practice recommendation, are discernibly out of scope, or otherwise confusing may not receive further communication beyond the initial automated acknowledgement.
 - **Quality Expectations**: We deeply value and encourage detailed and skilled security testing. To ensure that our resources are focused on addressing significant vulnerabilities, we may be unable to fully engage with reports that lack human analysis or are generated solely by automated tools. We kindly request that submissions reflect a thoughtful investigation, clear understanding, and provide genuine insight into potential vulnerabilities.
 - **Confidentiality**: Handle your report with strict confidentiality and not pass on your personal details to third parties without permission, unless necessary to comply with legal obligations.
-- **Legal Protection**: If you discover a weakness and investigate it, you might perform actions that are punishable by law. If you observe the rules for reporting weaknesses in our (IT) systems, we will not report your offense to the authorities
+- **Legal Protection**: If you discover a vulnerability and investigate it, you might perform actions that are punishable by law. If you observe the rules for reporting vulnerability in our (IT) systems, we will not report your offense to the authorities.
 - **Collaboration**: If applicable, we will keep you informed and work collaboratively with you on the reported issue.
 
 By outlining these promises, we're aiming to ensure clear communication with those who are engaging with our responsible disclosure program.
